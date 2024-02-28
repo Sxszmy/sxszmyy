@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sxszmy/sxszmy/main/Auto%20Farm", true))()
